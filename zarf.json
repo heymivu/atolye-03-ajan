@@ -1,0 +1,29 @@
+{
+ "dosya_sayisi": 80,
+ "gun_sayisi": 79,
+ "satir": 5032,
+ "iade_satiri": 22,
+ "ciro_TL": {
+  "agustos": 154555.0,
+  "eylul": 148585.0,
+  "ekim": 162845.0
+ },
+ "adet_3ay": {
+  "Çay": 1570,
+  "Latte": 1055,
+  "Türk kahvesi": 929,
+  "Filtre kahve": 856,
+  "Kurabiye": 696,
+  "Americano": 615,
+  "Tost": 587,
+  "Cheesecake": 403,
+  "Badem sütlü latte": 226
+ },
+ "en_cok_satan": "Çay",
+ "ekim_badem_adet": 226,
+ "tuzak": {
+  "kopya_gun": "2026-09-26",
+  "kopya_ciro_TL": 6600.0,
+  "noktali_virgul_gunler": "2026-09-15..2026-09-20"
+ }
+}
